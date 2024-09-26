@@ -1,6 +1,5 @@
-
 1;ASR-122;Toyota;RAV4;5;28000;Blanco
-2;BYD-123;Honda;Rav;4;47500;Gris
-3;MCF-124;Ford;Escape;5;26500;Azul
-4;JYP-125;Nissan;Rogue;4;27000;Rojo
-5;SRT-126;Mazda;Toyota;5;28500;Plata
+1;BYD-135;Honda;Rav;4;47500;Gris
+1;MCF-454;Ford;Escape;5;26500;Azul
+1;JYP-625;Nissan;Rogue;4;27000;Rojo
+1;SRT-136;Mazda;Toyota;5;28500;Plata
